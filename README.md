@@ -1,11 +1,11 @@
-<h1 align="center">Hello there 👋, I'm Francisco Cavasan</h1>
+<h1 align="center">Hello there, I'm Francisco Cavasan</h1>
 <h3 align="center">I am software developer passionate about understanding and solving problems. I am currently working with Laravel, Vue, MySql and AWS services. Feel free to contact me anywhere and anytime.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francisco-cavasan&label=Profile%20views&color=17ee42&style=flat" alt="francisco-cavasan" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue, React, AWS**
+- I’m currently learning **Laravel, Vue, AWS, Go**
 
-- 📫 How to reach me **francisco.cavasan12@gmail.com**
+- How to reach me **francisco.cavasan12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
