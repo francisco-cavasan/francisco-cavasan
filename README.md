@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francisco-cavasan&label=Profile%20views&color=17ee42&style=flat" alt="francisco-cavasan" /> </p>
 
 - I work with **Laravel, Vue, AWS**.
-- I'm currently learning Go and intend to learn Rust soon.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francisco-cavasan&show_icons=true&theme=onedark&locale=en" alt="francisco-cavasan" /></p>
 
