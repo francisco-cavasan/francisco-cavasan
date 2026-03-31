@@ -5,6 +5,4 @@
 
 - I work with **Laravel, Vue, AWS**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francisco-cavasan&show_icons=true&theme=onedark&locale=en" alt="francisco-cavasan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francisco-cavasan&theme=dark" alt="francisco-cavasan" /></p>
